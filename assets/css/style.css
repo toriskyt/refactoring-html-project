@@ -51,15 +51,6 @@ nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -67,16 +58,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 /*The <div> sections have been changed to <main> for central functionality*/
@@ -87,14 +68,15 @@ main {
 }
 
 main section {
-    margin-right: 20px;
-    padding: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
     clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
+    float: left;
+    width: 100%;
+    height: 300%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff;
 }
 
 main section img {
@@ -106,19 +88,38 @@ main section h2 {
     font-size: 36px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: left;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%
+    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     background-color: #2589bd;
 }
 
 aside section {
-    margin-bottom: 32px;
+    margin-bottom: 41px;
     color: #ffffff
 }
 aside section h3 {
