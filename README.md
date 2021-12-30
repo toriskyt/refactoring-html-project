@@ -1,9 +1,7 @@
 Refactoring Project
 Tracy Torisky
-
+git
 ttorisky@gmail.com
-
-[view my portfolio](file:///C:/Users/momme/updated-portfolio/index.html)
 
 This project involved refactoring existing code for the Horiseon marketing website, and to bring the page up to current ADA standards.
 
