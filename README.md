@@ -1,10 +1,13 @@
 Refactoring Project
-Homework Assignment #1
 Tracy Torisky
 
-This assignment asked us to refactor existing code for the Horiseon marketing website, and to bring the page up to current ADA standards.
+ttorisky@gmail.com
 
-The first item was to add alt tags to all images so that they can be read with screen readers.
+[view my portfolio](file:///C:/Users/momme/updated-portfolio/index.html)
+
+This project involved refactoring existing code for the Horiseon marketing website, and to bring the page up to current ADA standards.
+
+I first added alt tags to all image links so that they can be read with screen readers.
 
 The next step was to use semantic elements to make the code easier to identify.
 
